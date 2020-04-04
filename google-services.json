@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218528840618",
+    "firebase_url": "https://fcm-notification-cordova.firebaseio.com",
+    "project_id": "fcm-notification-cordova",
+    "storage_bucket": "fcm-notification-cordova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218528840618:android:4f87f5ec969693cf6b49d3",
+        "android_client_info": {
+          "package_name": "fcm.notification.cordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218528840618-pf2drg3srovctkae25et44r15pmtlkqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMXMqNCBCfLQOWKXlna7tccovD4RHaFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218528840618-pf2drg3srovctkae25et44r15pmtlkqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

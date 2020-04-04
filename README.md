@@ -27,13 +27,12 @@
     01. got to `https://console.firebase.google.com/`
     02. sign in if not already.
     03. create your project (name it what ever you want), it will take some time.
-    04. now you are on at fcm dash board, where you saw an ####android, ios, or <>#### icon.
+    04. now you are on at fcm dash board, where you saw an **android, ios, or <> ** icon.
     05. go to your config.xml you saw somthing like this (its on root of your folder).
-       ``` <widget id="fcm.notification.cordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"> '''
-       here copy that id and go to your firebase console now  click on android icon 
-            * paste id on Android package name filed (complete first step). and click on **Register app**
-            * now download google-services.json file and replace it from my file.
-            * skip next two step and go with next button
+       ``` <widget id="fcm.notification.cordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"> ``` here copy that id and go to your firebase console now  click on android icon. 
+    1. paste id on Android package name filed (complete first step). and click on **Register app**
+    1. now download google-services.json file and replace it from my file.
+    1. skip next two step and go with next button
     06. now time to check over app is working or not.
     07. got to firebase console and search **Cloud Messaging** and click on it.
     08. find **send your first message**. and follow that steps.

@@ -1,4 +1,4 @@
-##Now this is only for android.##
+## Now this is only for android. ##
 
 ## Prerequisites
 * cordova 9.0.0
